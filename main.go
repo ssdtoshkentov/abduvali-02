@@ -17,7 +17,7 @@ func main() {
 			"m0NESY2": 2,
 			"Donk3":   3,
 			"Simleo4": 4,
-			"nIKo5":   5,
+			"nIKo6":   6,
 		},
 	}
 	for k, v := range users["user1"] {
