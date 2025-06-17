@@ -10,7 +10,7 @@ func main() {
 			"m0NESY2": 2,
 			"Donk3":   3,
 			"Simleo4": 4,
-			"nIKo5":   5,
+			"nIKo7":   7,
 		},
 		"user2": {
 			"ZyWoo1":  1,
