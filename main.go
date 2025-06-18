@@ -10,14 +10,14 @@ func main() {
 			"m0NESY2": 2,
 			"Donk3":   3,
 			"Simleo4": 4,
-			"nIKo7":   7,
+			"nIKo5":   5,
 		},
 		"user2": {
 			"ZyWoo1":  1,
 			"m0NESY2": 2,
 			"Donk3":   3,
 			"Simleo4": 4,
-			"nIKo6":   6,
+			"nIKo5":   5,
 		},
 	}
 	for k, v := range users["user1"] {
