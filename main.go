@@ -4,11 +4,11 @@ import "fmt"
 
 func main() {
 	user1 := map[string]int{
-		"ZyWoo1":   1,
-		"m0NESY2":  2,
-		"Donk3":    3,
-		"Simpleo5": 5,
-		"batyor5":  5,
+		"ZyWoo1":  1,
+		"m0NESY2": 2,
+		"Donk3":   3,
+		"Abduvali's n1 cs2 player in 13 years old": 1,
+		"batyor5": 5,
 	}
 	user2 := map[string]int{
 		"ZyWoo1":  1,
