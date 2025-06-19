@@ -1,14 +1,17 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
+
 	user1 := map[string]int{
-		"ZyWoo1":   1,
-		"m0NESY2":  2,
-		"Donk3":    3,
-		"Simpleo4": 4,
-		"nIKo5":    5,
+		"ZyWoo1":                               1,
+		"m0NESY2":                              2,
+		"Donk is the best player in 2025 year": 3,
+		"Simpleo4":                             4,
+		"nIKo5":                                5,
 	}
 	user2 := map[string]int{
 		"ZyWoo1":   1,
