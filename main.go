@@ -14,7 +14,7 @@ func main() {
 		"nIKo5":                                  5,
 	}
 	user2 := map[string]int{
-		"ZyWoo1":   1,
+		"ZyWoo is the best player in austin major 2025": 1,
 		"m0NESY2":  2,
 		"Donk3":    3,
 		"Simpleo4": 4,
