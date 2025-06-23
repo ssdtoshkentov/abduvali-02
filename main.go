@@ -7,7 +7,7 @@ import (
 func main() {
 
 	user1 := map[string]int{
-		"ZyWoo2":  1,
+		"ZyWoo1":  1,
 		"m0NESY2": 2,
 	}
 	user2 := map[string]int{
