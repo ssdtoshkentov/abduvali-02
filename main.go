@@ -17,7 +17,6 @@ func main() {
 		"m0NESY is th best AWP player in 2025":          2,
 		"Donk3":                                         3,
 		"Simpleo4":                                      4,
-		"nIKo5":                                         5,
 	}
 	for k, v := range user1 {
 		fmt.Printf("user1 key: %s, value: %d\n", k, v)
