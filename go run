@@ -1,0 +1,16 @@
+package main
+
+import (
+	"fmt"
+	"net/http"
+)
+
+func main() {
+	// Bosh sahifa uchun handler
+	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+		fmt.Fprintln(w, "Salom! Bu mening Go tilida yozilgan saytım.")
+	})
+
+	fmt.Println("Sayt 8080-portda ishlayapti...")
+	http.ListenAndServe(":8080", nil)
+}
