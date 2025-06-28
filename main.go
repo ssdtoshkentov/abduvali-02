@@ -7,8 +7,8 @@ import (
 func main() {
 
 	user1 := map[string]int{
-		"ZyWoo1 is the best player": 1,
-		"m0NESY2":                   2,
+		"ZyWoo1":  1,
+		"m0NESY2": 2,
 	}
 	user2 := map[string]int{
 		"ZyWoo1":  1,
